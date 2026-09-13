@@ -1,0 +1,267 @@
+Transaction_ID,Date,Month_Year,Category,Description,Amount,Payment_Method,Status
+TXN-1003,2025-01-01,January 2025,Housing & Utilities,Rent / Mortgage,1412.42,Credit Card,Paid
+TXN-1016,2025-01-04,January 2025,Personal & Lifestyle,Salon & Grooming,170.02,Debit Card,Paid
+TXN-1017,2025-01-05,January 2025,Health & Wellness,Health Insurance,321.13,Debit Card,Paid
+TXN-1022,2025-01-05,January 2025,Debt & Financial,Personal Loan EMI,363.4,Bank Transfer,Paid
+TXN-1011,2025-01-05,January 2025,Transportation,Auto Insurance,241.38,Credit Card,Paid
+TXN-1014,2025-01-06,January 2025,Personal & Lifestyle,Hobbies & Books,139.63,Credit Card,Paid
+TXN-1001,2025-01-07,January 2025,Housing & Utilities,Electricity Bill,52.48,Credit Card,Paid
+TXN-1013,2025-01-08,January 2025,Transportation,Fuel / Petrol,115.65,Credit Card,Paid
+TXN-1009,2025-01-09,January 2025,Transportation,Public Transit Pass,127.25,Credit Card,Paid
+TXN-1025,2025-01-10,January 2025,Debt & Financial,Emergency Fund Savings,611.65,Credit Card,Paid
+TXN-1024,2025-01-10,January 2025,Debt & Financial,Investment Contribution,357.93,UPI / Mobile Wallet,Paid
+TXN-1023,2025-01-10,January 2025,Debt & Financial,Credit Card Payment,114.98,Credit Card,Paid
+TXN-1020,2025-01-13,January 2025,Entertainment & Subscriptions,Gaming Subscriptions,63.89,Credit Card,Paid
+TXN-1010,2025-01-14,January 2025,Transportation,Car Maintenance & Service,171.57,UPI / Mobile Wallet,Paid
+TXN-1012,2025-01-15,January 2025,Transportation,Uber / Rideshare,127.9,Bank Transfer,Paid
+TXN-1004,2025-01-16,January 2025,Housing & Utilities,Gas Bill,117.59,UPI / Mobile Wallet,Paid
+TXN-1007,2025-01-16,January 2025,Food & Groceries,Food Delivery,38.02,Credit Card,Paid
+TXN-1015,2025-01-18,January 2025,Personal & Lifestyle,Gym Membership,108.67,Bank Transfer,Paid
+TXN-1008,2025-01-19,January 2025,Food & Groceries,Supermarket Groceries,272.65,Credit Card,Paid
+TXN-1005,2025-01-21,January 2025,Housing & Utilities,Water & Sewer,15.13,Debit Card,Paid
+TXN-1018,2025-01-21,January 2025,Health & Wellness,Pharmacy & Medications,173.59,Credit Card,Paid
+TXN-1019,2025-01-21,January 2025,Health & Wellness,Doctor Consultation,59.77,Debit Card,Paid
+TXN-1002,2025-01-21,January 2025,Housing & Utilities,Trash Collection,90.78,Debit Card,Paid
+TXN-1021,2025-01-24,January 2025,Entertainment & Subscriptions,Concerts & Movies,177.84,Credit Card,Paid
+TXN-1006,2025-01-27,January 2025,Food & Groceries,Coffee Shops,18.81,Debit Card,Paid
+TXN-1027,2025-02-01,February 2025,Housing & Utilities,Rent / Mortgage,1413.97,Bank Transfer,Paid
+TXN-1046,2025-02-01,February 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),71.94,Credit Card,Paid
+TXN-1037,2025-02-01,February 2025,Transportation,Public Transit Pass,73.79,Credit Card,Paid
+TXN-1034,2025-02-02,February 2025,Food & Groceries,Coffee Shops,41.6,Debit Card,Paid
+TXN-1026,2025-02-03,February 2025,Housing & Utilities,Trash Collection,107.61,Credit Card,Paid
+TXN-1038,2025-02-03,February 2025,Personal & Lifestyle,Gym Membership,73.17,Credit Card,Paid
+TXN-1049,2025-02-05,February 2025,Debt & Financial,Personal Loan EMI,222.65,UPI / Mobile Wallet,Paid
+TXN-1044,2025-02-05,February 2025,Health & Wellness,Health Insurance,240.26,Credit Card,Paid
+TXN-1043,2025-02-07,February 2025,Health & Wellness,Pharmacy & Medications,55.73,Debit Card,Paid
+TXN-1033,2025-02-07,February 2025,Food & Groceries,Food Delivery,170.57,Credit Card,Paid
+TXN-1039,2025-02-09,February 2025,Personal & Lifestyle,Hobbies & Books,99.27,Debit Card,Paid
+TXN-1040,2025-02-10,February 2025,Personal & Lifestyle,Apparel & Clothing,129.25,Credit Card,Paid
+TXN-1047,2025-02-10,February 2025,Debt & Financial,Investment Contribution,576.45,Debit Card,Paid
+TXN-1048,2025-02-10,February 2025,Debt & Financial,Emergency Fund Savings,340.43,Credit Card,Paid
+TXN-1032,2025-02-11,February 2025,Food & Groceries,Dining Out & Restaurants,82.71,Credit Card,Paid
+TXN-1035,2025-02-12,February 2025,Transportation,Car Maintenance & Service,147.61,Debit Card,Paid
+TXN-1042,2025-02-17,February 2025,Health & Wellness,Doctor Consultation,75.0,Credit Card,Paid
+TXN-1031,2025-02-17,February 2025,Housing & Utilities,Water & Sewer,162.8,Credit Card,Paid
+TXN-1030,2025-02-17,February 2025,Housing & Utilities,Gas Bill,42.03,Credit Card,Paid
+TXN-1029,2025-02-19,February 2025,Housing & Utilities,Internet / Broadband,43.23,Debit Card,Paid
+TXN-1028,2025-02-19,February 2025,Housing & Utilities,Electricity Bill,84.9,Credit Card,Paid
+TXN-1041,2025-02-22,February 2025,Personal & Lifestyle,Salon & Grooming,170.58,Credit Card,Paid
+TXN-1045,2025-02-22,February 2025,Entertainment & Subscriptions,Gaming Subscriptions,176.14,Credit Card,Paid
+TXN-1036,2025-02-26,February 2025,Transportation,Uber / Rideshare,160.74,Credit Card,Paid
+TXN-1051,2025-03-01,March 2025,Housing & Utilities,Rent / Mortgage,1296.23,Credit Card,Paid
+TXN-1073,2025-03-05,March 2025,Debt & Financial,Personal Loan EMI,299.76,Debit Card,Paid
+TXN-1059,2025-03-05,March 2025,Transportation,Auto Insurance,414.79,Credit Card,Paid
+TXN-1068,2025-03-05,March 2025,Health & Wellness,Health Insurance,347.28,Debit Card,Paid
+TXN-1067,2025-03-08,March 2025,Health & Wellness,Pharmacy & Medications,75.47,UPI / Mobile Wallet,Paid
+TXN-1074,2025-03-10,March 2025,Debt & Financial,Emergency Fund Savings,684.28,Credit Card,Paid
+TXN-1056,2025-03-10,March 2025,Food & Groceries,Dining Out & Restaurants,49.5,Credit Card,Paid
+TXN-1072,2025-03-10,March 2025,Debt & Financial,Investment Contribution,732.08,Credit Card,Paid
+TXN-1054,2025-03-11,March 2025,Housing & Utilities,Electricity Bill,58.12,Credit Card,Paid
+TXN-1055,2025-03-11,March 2025,Housing & Utilities,Gas Bill,95.28,UPI / Mobile Wallet,Paid
+TXN-1058,2025-03-12,March 2025,Transportation,Uber / Rideshare,30.36,Debit Card,Paid
+TXN-1070,2025-03-13,March 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),175.55,Debit Card,Paid
+TXN-1053,2025-03-14,March 2025,Housing & Utilities,Internet / Broadband,57.62,Debit Card,Paid
+TXN-1064,2025-03-14,March 2025,Personal & Lifestyle,Apparel & Clothing,15.84,Debit Card,Paid
+TXN-1065,2025-03-16,March 2025,Personal & Lifestyle,Salon & Grooming,129.16,Cash,Paid
+TXN-1050,2025-03-16,March 2025,Housing & Utilities,Water & Sewer,149.71,UPI / Mobile Wallet,Paid
+TXN-1060,2025-03-19,March 2025,Transportation,Public Transit Pass,61.01,Bank Transfer,Paid
+TXN-1062,2025-03-20,March 2025,Transportation,Car Maintenance & Service,161.48,Credit Card,Paid
+TXN-1052,2025-03-20,March 2025,Housing & Utilities,Trash Collection,21.73,Credit Card,Paid
+TXN-1066,2025-03-21,March 2025,Health & Wellness,Doctor Consultation,54.15,Credit Card,Paid
+TXN-1069,2025-03-22,March 2025,Entertainment & Subscriptions,Gaming Subscriptions,119.99,Credit Card,Paid
+TXN-1061,2025-03-24,March 2025,Transportation,Fuel / Petrol,163.02,Debit Card,Paid
+TXN-1063,2025-03-25,March 2025,Personal & Lifestyle,Gym Membership,76.43,Bank Transfer,Paid
+TXN-1057,2025-03-26,March 2025,Food & Groceries,Food Delivery,123.9,Cash,Paid
+TXN-1071,2025-03-27,March 2025,Entertainment & Subscriptions,Concerts & Movies,164.51,Bank Transfer,Paid
+TXN-1077,2025-04-01,April 2025,Housing & Utilities,Rent / Mortgage,1489.09,UPI / Mobile Wallet,Paid
+TXN-1082,2025-04-01,April 2025,Transportation,Fuel / Petrol,137.23,Credit Card,Paid
+TXN-1093,2025-04-05,April 2025,Debt & Financial,Personal Loan EMI,175.6,Credit Card,Paid
+TXN-1087,2025-04-05,April 2025,Health & Wellness,Health Insurance,415.99,Credit Card,Paid
+TXN-1083,2025-04-05,April 2025,Transportation,Auto Insurance,362.67,Debit Card,Paid
+TXN-1079,2025-04-07,April 2025,Housing & Utilities,Internet / Broadband,61.48,Credit Card,Paid
+TXN-1086,2025-04-08,April 2025,Personal & Lifestyle,Salon & Grooming,47.06,Bank Transfer,Paid
+TXN-1080,2025-04-08,April 2025,Food & Groceries,Supermarket Groceries,424.01,Credit Card,Paid
+TXN-1075,2025-04-09,April 2025,Housing & Utilities,Water & Sewer,76.08,Cash,Paid
+TXN-1078,2025-04-09,April 2025,Housing & Utilities,Electricity Bill,63.56,Credit Card,Paid
+TXN-1092,2025-04-10,April 2025,Debt & Financial,Emergency Fund Savings,407.91,Debit Card,Paid
+TXN-1076,2025-04-14,April 2025,Housing & Utilities,Trash Collection,69.57,Cash,Paid
+TXN-1081,2025-04-15,April 2025,Food & Groceries,Food Delivery,49.47,Cash,Paid
+TXN-1090,2025-04-17,April 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),156.97,Credit Card,Paid
+TXN-1091,2025-04-22,April 2025,Entertainment & Subscriptions,Concerts & Movies,150.73,Debit Card,Paid
+TXN-1088,2025-04-23,April 2025,Health & Wellness,Doctor Consultation,110.51,Bank Transfer,Paid
+TXN-1085,2025-04-25,April 2025,Personal & Lifestyle,Gym Membership,99.37,Debit Card,Paid
+TXN-1089,2025-04-26,April 2025,Health & Wellness,Pharmacy & Medications,69.15,Debit Card,Paid
+TXN-1084,2025-04-26,April 2025,Transportation,Car Maintenance & Service,63.92,UPI / Mobile Wallet,Paid
+TXN-1111,2025-05-01,May 2025,Entertainment & Subscriptions,Concerts & Movies,121.14,UPI / Mobile Wallet,Paid
+TXN-1100,2025-05-01,May 2025,Food & Groceries,Food Delivery,169.21,Cash,Paid
+TXN-1098,2025-05-01,May 2025,Housing & Utilities,Water & Sewer,128.6,Credit Card,Paid
+TXN-1096,2025-05-01,May 2025,Housing & Utilities,Rent / Mortgage,1223.54,Credit Card,Paid
+TXN-1109,2025-05-02,May 2025,Health & Wellness,Pharmacy & Medications,170.74,Credit Card,Paid
+TXN-1108,2025-05-04,May 2025,Health & Wellness,Doctor Consultation,123.68,Debit Card,Paid
+TXN-1115,2025-05-05,May 2025,Debt & Financial,Personal Loan EMI,354.9,Credit Card,Paid
+TXN-1110,2025-05-05,May 2025,Health & Wellness,Health Insurance,325.73,UPI / Mobile Wallet,Paid
+TXN-1105,2025-05-05,May 2025,Personal & Lifestyle,Hobbies & Books,72.14,Credit Card,Paid
+TXN-1106,2025-05-05,May 2025,Personal & Lifestyle,Gym Membership,116.62,UPI / Mobile Wallet,Paid
+TXN-1095,2025-05-07,May 2025,Housing & Utilities,Electricity Bill,71.91,Debit Card,Paid
+TXN-1114,2025-05-10,May 2025,Debt & Financial,Investment Contribution,309.11,Credit Card,Paid
+TXN-1113,2025-05-10,May 2025,Entertainment & Subscriptions,Gaming Subscriptions,173.6,Credit Card,Paid
+TXN-1107,2025-05-10,May 2025,Personal & Lifestyle,Apparel & Clothing,58.05,Debit Card,Paid
+TXN-1097,2025-05-11,May 2025,Housing & Utilities,Internet / Broadband,117.01,Debit Card,Paid
+TXN-1112,2025-05-12,May 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),150.41,Credit Card,Paid
+TXN-1103,2025-05-15,May 2025,Transportation,Fuel / Petrol,30.15,Credit Card,Paid
+TXN-1099,2025-05-16,May 2025,Food & Groceries,Supermarket Groceries,387.31,Credit Card,Paid
+TXN-1094,2025-05-18,May 2025,Housing & Utilities,Gas Bill,81.3,Credit Card,Paid
+TXN-1104,2025-05-20,May 2025,Transportation,Public Transit Pass,156.15,Credit Card,Paid
+TXN-1102,2025-05-25,May 2025,Transportation,Uber / Rideshare,140.04,Credit Card,Paid
+TXN-1101,2025-05-26,May 2025,Transportation,Car Maintenance & Service,22.87,Credit Card,Paid
+TXN-1116,2025-06-01,June 2025,Housing & Utilities,Rent / Mortgage,1278.21,Debit Card,Paid
+TXN-1120,2025-06-03,June 2025,Housing & Utilities,Trash Collection,138.85,Cash,Paid
+TXN-1130,2025-06-03,June 2025,Health & Wellness,Doctor Consultation,24.22,UPI / Mobile Wallet,Paid
+TXN-1136,2025-06-05,June 2025,Debt & Financial,Personal Loan EMI,261.19,UPI / Mobile Wallet,Paid
+TXN-1131,2025-06-05,June 2025,Health & Wellness,Health Insurance,255.27,Credit Card,Paid
+TXN-1121,2025-06-06,June 2025,Housing & Utilities,Electricity Bill,73.01,Credit Card,Paid
+TXN-1119,2025-06-08,June 2025,Housing & Utilities,Internet / Broadband,117.41,Credit Card,Paid
+TXN-1118,2025-06-08,June 2025,Housing & Utilities,Gas Bill,110.2,Debit Card,Paid
+TXN-1135,2025-06-10,June 2025,Debt & Financial,Emergency Fund Savings,793.32,Credit Card,Paid
+TXN-1133,2025-06-13,June 2025,Entertainment & Subscriptions,Gaming Subscriptions,28.88,Credit Card,Paid
+TXN-1122,2025-06-13,June 2025,Food & Groceries,Coffee Shops,85.78,Bank Transfer,Paid
+TXN-1125,2025-06-17,June 2025,Food & Groceries,Dining Out & Restaurants,162.76,Credit Card,Paid
+TXN-1132,2025-06-17,June 2025,Entertainment & Subscriptions,Concerts & Movies,153.1,Credit Card,Paid
+TXN-1123,2025-06-17,June 2025,Food & Groceries,Food Delivery,54.31,Debit Card,Paid
+TXN-1117,2025-06-18,June 2025,Housing & Utilities,Water & Sewer,129.33,Debit Card,Paid
+TXN-1126,2025-06-20,June 2025,Transportation,Public Transit Pass,172.87,Debit Card,Paid
+TXN-1129,2025-06-21,June 2025,Personal & Lifestyle,Apparel & Clothing,33.72,Debit Card,Paid
+TXN-1127,2025-06-21,June 2025,Transportation,Car Maintenance & Service,119.25,Credit Card,Paid
+TXN-1128,2025-06-23,June 2025,Personal & Lifestyle,Salon & Grooming,139.14,Bank Transfer,Paid
+TXN-1124,2025-06-25,June 2025,Food & Groceries,Supermarket Groceries,374.14,Credit Card,Paid
+TXN-1134,2025-06-27,June 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),80.45,Bank Transfer,Paid
+TXN-1147,2025-07-01,July 2025,Personal & Lifestyle,Gym Membership,129.8,Debit Card,Paid
+TXN-1137,2025-07-01,July 2025,Housing & Utilities,Rent / Mortgage,1225.05,Bank Transfer,Paid
+TXN-1141,2025-07-01,July 2025,Food & Groceries,Dining Out & Restaurants,122.12,Bank Transfer,Paid
+TXN-1145,2025-07-03,July 2025,Personal & Lifestyle,Hobbies & Books,27.18,Bank Transfer,Paid
+TXN-1152,2025-07-04,July 2025,Entertainment & Subscriptions,Concerts & Movies,74.46,Cash,Paid
+TXN-1155,2025-07-05,July 2025,Debt & Financial,Personal Loan EMI,172.86,UPI / Mobile Wallet,Paid
+TXN-1148,2025-07-05,July 2025,Health & Wellness,Health Insurance,371.13,UPI / Mobile Wallet,Paid
+TXN-1140,2025-07-08,July 2025,Food & Groceries,Supermarket Groceries,264.08,Credit Card,Paid
+TXN-1154,2025-07-10,July 2025,Debt & Financial,Emergency Fund Savings,435.48,Credit Card,Paid
+TXN-1144,2025-07-15,July 2025,Transportation,Public Transit Pass,175.03,UPI / Mobile Wallet,Paid
+TXN-1146,2025-07-15,July 2025,Personal & Lifestyle,Salon & Grooming,27.45,Debit Card,Paid
+TXN-1149,2025-07-16,July 2025,Health & Wellness,Pharmacy & Medications,173.19,UPI / Mobile Wallet,Paid
+TXN-1153,2025-07-17,July 2025,Entertainment & Subscriptions,Gaming Subscriptions,130.2,Credit Card,Paid
+TXN-1151,2025-07-18,July 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),73.3,Credit Card,Paid
+TXN-1139,2025-07-18,July 2025,Food & Groceries,Food Delivery,56.86,Debit Card,Paid
+TXN-1150,2025-07-21,July 2025,Health & Wellness,Doctor Consultation,90.18,Credit Card,Paid
+TXN-1142,2025-07-25,July 2025,Food & Groceries,Coffee Shops,54.19,Credit Card,Paid
+TXN-1143,2025-07-26,July 2025,Transportation,Uber / Rideshare,87.0,Credit Card,Paid
+TXN-1138,2025-07-27,July 2025,Housing & Utilities,Water & Sewer,107.14,Credit Card,Paid
+TXN-1157,2025-08-01,August 2025,Housing & Utilities,Water & Sewer,19.35,Bank Transfer,Paid
+TXN-1172,2025-08-02,August 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),116.85,Credit Card,Paid
+TXN-1176,2025-08-04,August 2025,Debt & Financial,Credit Card Payment,130.11,Debit Card,Paid
+TXN-1171,2025-08-05,August 2025,Health & Wellness,Health Insurance,336.09,Bank Transfer,Paid
+TXN-1177,2025-08-05,August 2025,Debt & Financial,Personal Loan EMI,402.63,Bank Transfer,Paid
+TXN-1162,2025-08-05,August 2025,Food & Groceries,Supermarket Groceries,422.93,Cash,Paid
+TXN-1166,2025-08-08,August 2025,Personal & Lifestyle,Gym Membership,116.99,Credit Card,Paid
+TXN-1160,2025-08-09,August 2025,Food & Groceries,Dining Out & Restaurants,25.48,Debit Card,Paid
+TXN-1174,2025-08-10,August 2025,Debt & Financial,Emergency Fund Savings,525.46,UPI / Mobile Wallet,Paid
+TXN-1175,2025-08-10,August 2025,Debt & Financial,Investment Contribution,448.98,Debit Card,Paid
+TXN-1168,2025-08-12,August 2025,Personal & Lifestyle,Hobbies & Books,100.83,UPI / Mobile Wallet,Paid
+TXN-1165,2025-08-13,August 2025,Transportation,Fuel / Petrol,56.49,Debit Card,Paid
+TXN-1164,2025-08-14,August 2025,Transportation,Uber / Rideshare,55.81,Credit Card,Paid
+TXN-1173,2025-08-15,August 2025,Entertainment & Subscriptions,Gaming Subscriptions,112.34,Debit Card,Paid
+TXN-1161,2025-08-16,August 2025,Food & Groceries,Food Delivery,60.11,Credit Card,Paid
+TXN-1159,2025-08-19,August 2025,Housing & Utilities,Electricity Bill,87.53,Credit Card,Paid
+TXN-1158,2025-08-19,August 2025,Housing & Utilities,Gas Bill,78.43,Credit Card,Paid
+TXN-1163,2025-08-21,August 2025,Food & Groceries,Coffee Shops,179.45,Debit Card,Paid
+TXN-1167,2025-08-22,August 2025,Personal & Lifestyle,Salon & Grooming,97.2,Bank Transfer,Paid
+TXN-1170,2025-08-23,August 2025,Health & Wellness,Pharmacy & Medications,94.21,Bank Transfer,Paid
+TXN-1169,2025-08-25,August 2025,Health & Wellness,Doctor Consultation,159.65,Debit Card,Paid
+TXN-1156,2025-08-27,August 2025,Housing & Utilities,Trash Collection,159.65,Credit Card,Paid
+TXN-1180,2025-09-01,September 2025,Housing & Utilities,Rent / Mortgage,1238.41,Credit Card,Paid
+TXN-1195,2025-09-03,September 2025,Entertainment & Subscriptions,Concerts & Movies,88.82,Credit Card,Paid
+TXN-1199,2025-09-04,September 2025,Debt & Financial,Credit Card Payment,112.94,Credit Card,Paid
+TXN-1197,2025-09-05,September 2025,Debt & Financial,Personal Loan EMI,213.43,Credit Card,Paid
+TXN-1188,2025-09-05,September 2025,Transportation,Auto Insurance,338.37,Credit Card,Paid
+TXN-1193,2025-09-05,September 2025,Health & Wellness,Health Insurance,194.32,Credit Card,Paid
+TXN-1181,2025-09-08,September 2025,Housing & Utilities,Trash Collection,37.91,Credit Card,Paid
+TXN-1198,2025-09-10,September 2025,Debt & Financial,Investment Contribution,359.88,UPI / Mobile Wallet,Paid
+TXN-1178,2025-09-11,September 2025,Housing & Utilities,Water & Sewer,69.24,Debit Card,Paid
+TXN-1186,2025-09-12,September 2025,Food & Groceries,Coffee Shops,103.18,Credit Card,Paid
+TXN-1182,2025-09-13,September 2025,Housing & Utilities,Electricity Bill,95.72,UPI / Mobile Wallet,Paid
+TXN-1192,2025-09-14,September 2025,Personal & Lifestyle,Apparel & Clothing,140.39,Debit Card,Paid
+TXN-1189,2025-09-16,September 2025,Transportation,Car Maintenance & Service,159.14,Credit Card,Paid
+TXN-1184,2025-09-18,September 2025,Food & Groceries,Dining Out & Restaurants,150.6,Credit Card,Paid
+TXN-1179,2025-09-19,September 2025,Housing & Utilities,Gas Bill,67.33,Credit Card,Paid
+TXN-1190,2025-09-20,September 2025,Personal & Lifestyle,Gym Membership,138.46,Credit Card,Paid
+TXN-1185,2025-09-21,September 2025,Food & Groceries,Supermarket Groceries,294.25,Debit Card,Paid
+TXN-1191,2025-09-22,September 2025,Personal & Lifestyle,Salon & Grooming,76.13,Credit Card,Paid
+TXN-1196,2025-09-23,September 2025,Entertainment & Subscriptions,Gaming Subscriptions,32.3,Credit Card,Paid
+TXN-1194,2025-09-23,September 2025,Health & Wellness,Doctor Consultation,128.38,Debit Card,Paid
+TXN-1187,2025-09-26,September 2025,Transportation,Uber / Rideshare,68.06,Bank Transfer,Paid
+TXN-1183,2025-09-26,September 2025,Food & Groceries,Food Delivery,43.43,Credit Card,Paid
+TXN-1200,2025-10-01,October 2025,Housing & Utilities,Rent / Mortgage,1376.05,Bank Transfer,Paid
+TXN-1216,2025-10-02,October 2025,Debt & Financial,Credit Card Payment,105.57,Credit Card,Paid
+TXN-1214,2025-10-05,October 2025,Debt & Financial,Personal Loan EMI,328.16,Credit Card,Paid
+TXN-1209,2025-10-05,October 2025,Health & Wellness,Health Insurance,428.81,Debit Card,Paid
+TXN-1213,2025-10-06,October 2025,Entertainment & Subscriptions,Gaming Subscriptions,141.68,Debit Card,Paid
+TXN-1215,2025-10-10,October 2025,Debt & Financial,Investment Contribution,527.13,Debit Card,Paid
+TXN-1217,2025-10-10,October 2025,Debt & Financial,Emergency Fund Savings,704.94,Credit Card,Paid
+TXN-1207,2025-10-11,October 2025,Personal & Lifestyle,Apparel & Clothing,80.65,UPI / Mobile Wallet,Paid
+TXN-1204,2025-10-11,October 2025,Transportation,Uber / Rideshare,95.49,Credit Card,Paid
+TXN-1212,2025-10-15,October 2025,Entertainment & Subscriptions,Concerts & Movies,55.0,Bank Transfer,Paid
+TXN-1208,2025-10-17,October 2025,Personal & Lifestyle,Salon & Grooming,149.82,Debit Card,Paid
+TXN-1210,2025-10-19,October 2025,Health & Wellness,Pharmacy & Medications,109.32,UPI / Mobile Wallet,Paid
+TXN-1201,2025-10-19,October 2025,Housing & Utilities,Trash Collection,86.22,Credit Card,Paid
+TXN-1206,2025-10-19,October 2025,Transportation,Car Maintenance & Service,28.24,Credit Card,Paid
+TXN-1205,2025-10-24,October 2025,Transportation,Fuel / Petrol,147.97,UPI / Mobile Wallet,Paid
+TXN-1202,2025-10-24,October 2025,Food & Groceries,Supermarket Groceries,392.69,Debit Card,Paid
+TXN-1203,2025-10-25,October 2025,Food & Groceries,Coffee Shops,69.51,Credit Card,Paid
+TXN-1211,2025-10-26,October 2025,Health & Wellness,Doctor Consultation,48.84,Credit Card,Paid
+TXN-1229,2025-11-01,November 2025,Transportation,Car Maintenance & Service,53.32,Credit Card,Paid
+TXN-1223,2025-11-01,November 2025,Housing & Utilities,Rent / Mortgage,1214.43,Bank Transfer,Paid
+TXN-1236,2025-11-02,November 2025,Personal & Lifestyle,Gym Membership,48.75,Bank Transfer,Paid
+TXN-1224,2025-11-03,November 2025,Food & Groceries,Coffee Shops,146.92,Credit Card,Paid
+TXN-1241,2025-11-04,November 2025,Entertainment & Subscriptions,Concerts & Movies,129.5,Bank Transfer,Paid
+TXN-1238,2025-11-05,November 2025,Health & Wellness,Health Insurance,403.94,Credit Card,Paid
+TXN-1243,2025-11-05,November 2025,Debt & Financial,Personal Loan EMI,270.26,Debit Card,Paid
+TXN-1228,2025-11-05,November 2025,Transportation,Auto Insurance,374.28,Debit Card,Paid
+TXN-1221,2025-11-06,November 2025,Housing & Utilities,Internet / Broadband,119.27,Credit Card,Paid
+TXN-1233,2025-11-07,November 2025,Personal & Lifestyle,Salon & Grooming,103.02,Debit Card,Paid
+TXN-1222,2025-11-08,November 2025,Housing & Utilities,Trash Collection,25.97,Bank Transfer,Paid
+TXN-1227,2025-11-08,November 2025,Food & Groceries,Supermarket Groceries,348.11,Debit Card,Paid
+TXN-1219,2025-11-09,November 2025,Housing & Utilities,Gas Bill,48.54,UPI / Mobile Wallet,Paid
+TXN-1244,2025-11-10,November 2025,Debt & Financial,Emergency Fund Savings,773.64,Credit Card,Paid
+TXN-1242,2025-11-10,November 2025,Debt & Financial,Investment Contribution,754.23,Debit Card,Paid
+TXN-1218,2025-11-11,November 2025,Housing & Utilities,Electricity Bill,77.73,Bank Transfer,Paid
+TXN-1237,2025-11-13,November 2025,Health & Wellness,Doctor Consultation,31.98,Credit Card,Paid
+TXN-1220,2025-11-14,November 2025,Housing & Utilities,Water & Sewer,174.23,UPI / Mobile Wallet,Paid
+TXN-1239,2025-11-15,November 2025,Entertainment & Subscriptions,Gaming Subscriptions,104.08,Debit Card,Paid
+TXN-1245,2025-11-18,November 2025,Debt & Financial,Credit Card Payment,111.73,Debit Card,Paid
+TXN-1231,2025-11-19,November 2025,Transportation,Fuel / Petrol,118.0,Debit Card,Paid
+TXN-1232,2025-11-19,November 2025,Transportation,Uber / Rideshare,69.91,Credit Card,Paid
+TXN-1230,2025-11-21,November 2025,Transportation,Public Transit Pass,102.76,UPI / Mobile Wallet,Paid
+TXN-1235,2025-11-23,November 2025,Personal & Lifestyle,Apparel & Clothing,56.0,Credit Card,Paid
+TXN-1234,2025-11-25,November 2025,Personal & Lifestyle,Hobbies & Books,179.62,Credit Card,Paid
+TXN-1226,2025-11-25,November 2025,Food & Groceries,Food Delivery,164.8,UPI / Mobile Wallet,Paid
+TXN-1240,2025-11-27,November 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),142.36,Debit Card,Paid
+TXN-1225,2025-11-27,November 2025,Food & Groceries,Dining Out & Restaurants,149.4,Debit Card,Paid
+TXN-1248,2025-12-01,December 2025,Housing & Utilities,Rent / Mortgage,1477.67,Debit Card,Paid
+TXN-1263,2025-12-02,December 2025,Entertainment & Subscriptions,Gaming Subscriptions,163.08,Debit Card,Paid
+TXN-1260,2025-12-05,December 2025,Health & Wellness,Health Insurance,382.66,Debit Card,Paid
+TXN-1255,2025-12-05,December 2025,Transportation,Auto Insurance,424.45,Credit Card,Paid
+TXN-1266,2025-12-05,December 2025,Debt & Financial,Personal Loan EMI,203.56,Bank Transfer,Paid
+TXN-1247,2025-12-07,December 2025,Housing & Utilities,Electricity Bill,45.51,Bank Transfer,Pending
+TXN-1262,2025-12-07,December 2025,Entertainment & Subscriptions,Concerts & Movies,157.19,Bank Transfer,Paid
+TXN-1257,2025-12-08,December 2025,Personal & Lifestyle,Apparel & Clothing,83.41,Debit Card,Paid
+TXN-1265,2025-12-08,December 2025,Debt & Financial,Credit Card Payment,47.36,Credit Card,Paid
+TXN-1246,2025-12-10,December 2025,Housing & Utilities,Trash Collection,18.8,Bank Transfer,Paid
+TXN-1250,2025-12-10,December 2025,Housing & Utilities,Gas Bill,66.57,Debit Card,Paid
+TXN-1253,2025-12-11,December 2025,Transportation,Car Maintenance & Service,89.62,Credit Card,Pending
+TXN-1259,2025-12-16,December 2025,Health & Wellness,Doctor Consultation,118.12,Debit Card,Paid
+TXN-1256,2025-12-17,December 2025,Personal & Lifestyle,Gym Membership,100.0,Cash,Paid
+TXN-1249,2025-12-18,December 2025,Housing & Utilities,Internet / Broadband,118.79,Credit Card,Pending
+TXN-1261,2025-12-18,December 2025,Health & Wellness,Pharmacy & Medications,87.73,Debit Card,Paid
+TXN-1264,2025-12-18,December 2025,Entertainment & Subscriptions,Streaming Services (Netflix/Spotify),40.77,UPI / Mobile Wallet,Paid
+TXN-1251,2025-12-20,December 2025,Food & Groceries,Dining Out & Restaurants,70.31,Bank Transfer,Paid
+TXN-1252,2025-12-20,December 2025,Food & Groceries,Food Delivery,33.85,Debit Card,Pending
+TXN-1258,2025-12-23,December 2025,Personal & Lifestyle,Hobbies & Books,26.07,Debit Card,Paid
+TXN-1254,2025-12-25,December 2025,Transportation,Fuel / Petrol,55.96,Debit Card,Paid
